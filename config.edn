@@ -1,0 +1,2 @@
+{:llm {:default :openai}
+ :openai {:api-endpoint "https://api.openai.com/v1/chat/completions"}}
